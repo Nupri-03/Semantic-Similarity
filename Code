@@ -170,4 +170,8 @@ def run_similarity_test(filename, semantic_descriptors, similarity_fn):
 
     return total_no_correct_answers/len(list)*100
 
+if __name__ == '__main__':
+    # insert functions here to try out the semantic descriptors.
+   
+
 
